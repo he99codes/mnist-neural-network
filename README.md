@@ -33,8 +33,12 @@ python train.py
 ##  Project Structure
 ```
 mnist-neural-network/
+└── model/
+      └── nn_model.pkl
 ├── neural_network.py      # Core NN implementation
 ├── train.py              # Training script
+├── load_model.py
+|── nn_model.pkl
 ├── README.md             # This file    
 └── .gitignore           # Git ignore rules
 ```
