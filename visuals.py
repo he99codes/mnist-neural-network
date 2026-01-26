@@ -1,4 +1,4 @@
-from model import iterations,losses, lrs ,train_accuracy ,dev_accuracy, w1_norms,w2_norms,b1_norms,b2_norms
+from app import iterations,losses, lrs ,train_accuracy ,dev_accuracy, w1_norms,w2_norms,b1_norms,b2_norms
 
 import matplotlib.pyplot as plt
 

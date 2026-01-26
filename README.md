@@ -57,22 +57,10 @@ mnist-neural-network/
 
 
 ## 🔗 Links
-- [Kaggle Notebook](your-kaggle-link-here)
+- [Kaggle Notebook](https://www.kaggle.com/code/priyanshusharmamf/hand-written-digits-recognition-mnist)
 - [MNIST Dataset](https://www.kaggle.com/code/priyanshusharmamf/hand-written-digits-recognition-mnist)
 ```
 
 *
-```
-numpy>=1.21.0
-matplotlib>=3.4.0
-pandas>=1.3.0
-```
 
-**`.gitignore`:**
-```
-# Data files
-*.csv
-*.npz
-train.csv
-test.csv
 
